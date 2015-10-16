@@ -1,0 +1,109 @@
+body {
+   
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #333;
+    background-color: #fff;
+   
+}
+.style-ul li {
+    list-style: none;
+    float: left;
+    padding: 27px;
+    color: #000;
+    font-size: 18px;
+   font-weight: 500;
+}
+.style-ul li a {
+    color: #000;
+    font-weight: 500;
+    
+}
+h1{
+	font-size: 19px;
+   font-weight: 400;
+  
+    margin-top: 29px;
+
+}
+.bg-main{
+    background-image: url("..//img/banner.jpg");
+    min-height: 500px;
+    padding-top: 120px;
+
+}
+ul {
+    margin-top: 0;
+    margin-bottom: 10px;
+}
+.container {
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+.repair-h2 a {
+    background-color: #555555;
+    font-size: 18px;
+    color: #fff;
+    margin: 40px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 40px;
+    padding-right: 40px;
+    font-weight: 100;
+    font-family: 'Roboto', sans-serif;
+}
+.repair-h2 {
+    background: transparent;
+    font-size: 48px;
+    line-height: 56px;
+    color: #fff;
+}
+.hight-light {
+    background-color: #eaeff4;
+    color: #000;
+    padding: 0 10px;
+}
+.repair-h2 a:hover{
+    background-color: #cc6cff;
+    color: #fff;
+    transition: background-color .5s;
+    text-decoration: none;
+}
+.contact{
+    padding-top: 65px;
+    padding-bottom: 40px;
+    list-style: none;
+}
+.contact li{
+    display: list-item;
+    float:right;
+    padding:10px;
+}
+.contact li a {
+    float: right;
+    width: 24px;
+    height: 24px;
+    text-indent: -9999px;
+   text-align:left;
+}
+.linkedin {
+    background-image: url("https://portfolio-rails-2633.herokuapp.com/assets/twitter-8c095eaee58362a46d56e3f07b50b23b.svg");
+    background-position:center center;
+    background-repeat:no-repeat;
+}
+.github {
+    background-image: url("https://portfolio-rails-2633.herokuapp.com/assets/github-edc899c60c7b3afd0c458e648197f578.svg");
+    background-position:center center;
+    background-repeat:no-repeat;
+}
+.twitter {
+    background-image: url("https://portfolio-rails-2633.herokuapp.com/assets/linkedin-be22eb82414f9f637debbe2d64c301cb.svg");
+    
+    background-position:center center;
+    background-repeat:no-repeat;
+}
+p.text-right {
+    padding-bottom: 40px;
+}

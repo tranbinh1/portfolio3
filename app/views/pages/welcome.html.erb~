@@ -1,0 +1,76 @@
+<body>
+
+
+  <!-- Banner -->
+<!--<div class="banner-header">
+  <div class="container">
+  	<div class="row">
+      <div class="col-xs-8">
+        <ul class="style-ul">
+          <li>
+            <a href="#">Welcome</a>
+          </li>
+          <li>
+            <a href="/portfolio">Portfolio</a>
+          </li>
+          <li>
+            <a href="#">Blog</a>
+          </li>
+          <li>
+            <a href="#">About</a>
+          </li>
+          <li>
+            <a href="#">Contact</a>
+          </li>
+        </ul>
+      </div>
+    <div class="col-xs-4">
+          <h1 class="repair-h1">Trần Bình</h1>
+    </div>
+  	</div>
+	</div>
+</div>-->
+<div class="bg-main" src="..//img/banner.jpg">
+<div class="container">
+    <div class="row">
+      <div class="col-md-12 text-right">
+          <h2 class="repair-h2">Hello. My name is <span class="hight-light">Trần Bình</span> and I have creative ideas and build websites</h2>
+          <h2 class="repair-h2"><a href="/portfolio">View my Work</a></h2>
+      </div>
+    </div>
+	</div>
+</div>
+
+  <!-- Footer -->
+<!--<div>
+    <div class="container">
+      <div class="row">
+        <div class="col-md-12">
+          <ul class="contact">
+           <li>
+            <a class="linkedin" href="#">linkedin</a>
+          </li>
+          <li>
+            <a class="twitter" href="#">twitter</a>
+          </li>
+          <li>
+            <a class="github" href="#">github</a>
+          </li>
+        </ul>
+        </div>
+      </div>
+  
+  <p class="text-right">© 2015 Trần Bình</p>
+	</div>
+</div>-->
+  
+<!-- Unslider -->
+<!-- <script src="https://code.jquery.com/jquery-latest.min.js"></script>
+<script src="http://unslider.com/unslider.min.js"></script>
+  <script>
+    $(document).ready(function() {
+                  $('.banner').unslider();
+  });
+  </script>-->
+<!-- End-Unslider -->
+</body>

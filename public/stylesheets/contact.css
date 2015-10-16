@@ -1,0 +1,36 @@
+.contact-h1 {
+    font-weight: bold;
+    font-size: 34px;
+    padding: 50px;
+}
+.contact-linkedin {
+    background-image: url("https://portfolio-rails-2633.herokuapp.com/assets/linkedin-be22eb82414f9f637debbe2d64c301cb.svg");
+}
+
+.contact-github {
+    background-image: url("https://portfolio-rails-2633.herokuapp.com/assets/github-edc899c60c7b3afd0c458e648197f578.svg");
+}
+.contact-me {
+    margin-bottom: 30px;
+    overflow: hidden;
+    float: left;
+    width: 100%;
+    text-indent: -9999px;
+    background-position: center center;
+    background-repeat: no-repeat;
+    height: 100px;
+}
+
+.contact-twitter {
+    background-image: url("https://portfolio-rails-2633.herokuapp.com/assets/twitter-8c095eaee58362a46d56e3f07b50b23b.svg");
+}
+
+.contact-facebook {
+    background-image: url("https://portfolio-rails-2633.herokuapp.com/assets/facebook-70848fad6bf158b9a52e47d9bc956b8a.svg");
+}
+.contact-google-plus {
+    background-image: url("https://portfolio-rails-2633.herokuapp.com/assets/gplus-b3a33145641e08e048cd10ed0ece59ce.svg");
+}
+.contact-instagram {
+    background-image: url("https://portfolio-rails-2633.herokuapp.com/assets/instagram-057a090ac0e0184c68efc07e412eec3b.svg");
+}

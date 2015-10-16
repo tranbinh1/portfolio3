@@ -1,0 +1,12 @@
+<div class="container">
+	<div class="row">
+    <div class="col-md-6">
+      <img class="about-img" src="..//img/Gaiown0ZRYseSZ7W1UY2k3klA73Zd5cN1FDQNfaEuHk.jpg">
+    </div>
+    <div class="col-md-6 text-left">
+      <h3>Hello. My name is <span class="hight-light">Trần Bình </span></h3>
+      <p>I was born in 1995 in Bình Định province and raised in that before come to Ho Chi Minh city to learn.</p>
+      <p>Since 2012, I've been done my favorite. Learn programing.</p>
+    </div>
+  </div>
+</div>

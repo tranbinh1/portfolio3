@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Portfolio</title>
+  <link href='https://fonts.googleapis.com/css?family=Roboto:500,100,300,700' rel='stylesheet' type='text/css'>
+  <!-- Latest compiled and minified CSS -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+<link rel="stylesheet" href="..//stylesheets/application.css">
+<link rel="stylesheet" href="..//stylesheets/about.css">
+<link rel="stylesheet" href="..//stylesheets/blog.css">
+<link rel="stylesheet" href="..//stylesheets/contact.css">
+<link rel="stylesheet" href="..//stylesheets/pages.css">
+<link rel="stylesheet" href="..//stylesheets/portfolio.css">
+
+<!-- Latest compiled and minified JavaScript -->
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+  <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track' => true %>
+ <%= javascript_include_tag 'application', 'data-turbolinks-track' => true %>
+  <%= csrf_meta_tags %>
+</head>
+<body>
+<div class="banner-header">
+  <div class="container">
+  	<div class="row">
+      <div class="col-xs-8">
+        <ul class="style-ul">
+          <li>
+            <%=link_to "Welcome", welcome_path()%>
+          </li>
+          <li>
+            <%=link_to "Portfolio", portfolio_path()%>
+          </li>
+          <li>
+            <%=link_to "Blog", blog_path()%>
+          </li>
+          <li>
+            <%=link_to "About", about_path()%>
+          </li>
+          <li>
+             <%=link_to "Contact", contact_path()%>
+          </li>
+        </ul>
+      </div>
+    <div class="col-xs-4">
+          <h1 class="repair-h1">Trần Bình</h1>
+    </div>
+  	</div>
+	</div>
+</div>
+<%= yield %>
+
+
+
+  <!-- Footer -->
+<div>
+    <div class="container">
+      <div class="row">
+        <div class="col-md-12">
+          <ul class="contact">
+           <li>
+            <a class="linkedin" href="#">linkedin</a>
+          </li>
+          <li>
+            <a class="twitter" href="#">twitter</a>
+          </li>
+          <li>
+            <a class="github" href="#">github</a>
+          </li>
+        </ul>
+        </div>
+      </div>
+  
+  <p class="text-right">© 2015 Trần Bình</p>
+	</div>
+</div>
+  
+  <script>
+	function login() {
+		if (loginnn.Username.value=="tranbinhfc@gmail.com") 
+    { 
+			if (loginnn.Password.value=="aspirinep102") 
+    	{              
+      		window.location =" <%= welcome_path()%> ";
+			} 
+     else 
+    	 {
+					alert("Fail Password")
+				}
+		}			
+   		 else
+    {  alert("Fail Email")
+	}
+}
+</script>
+  
+</body>
+</html>

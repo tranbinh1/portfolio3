@@ -1,0 +1,7 @@
+.about-img {
+    width: 65%;
+    overflow: hidden;
+}
+h3{
+	font-size: 36px;
+}
