@@ -16,9 +16,45 @@
     height: 550px;
     width: 100%;
     position: relative;
-    overflow: hidden;
-    background-image: url("..//img/slide01-9d5c1b911de14032bbc4cc7b19514447.jpg");
+    overflow: auto;
+   
 }
+* {
+    margin: 0px;
+    padding: 0px;
+    
+}
+    .banner li { list-style: none; }
+        .banner ul li { 
+float: left;
+
+ }
+.banner .dots {
+    position: absolute;
+    left: 0px;
+    right: 0px;
+    bottom: 20px;
+}
+element {
+}
+.banner .dots li.active {
+    background: none repeat scroll 0% 0% #FFF;
+    opacity: 1;
+
+}
+.banner .dots li {
+    display: inline-block;
+    width: 10px;
+    height: 10px;
+    margin: 0px 4px;
+    text-indent: -999em;
+    border: 2px solid #FFF;
+    border-radius: 6px;
+    cursor: pointer;
+   
+}
+
+
 .row {
     margin-right: -15px;
     margin-left: -15px;

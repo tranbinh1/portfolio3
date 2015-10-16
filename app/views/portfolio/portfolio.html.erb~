@@ -1,10 +1,16 @@
   <div class="binh">
   <div class="banner">
-        <div class="">
+        
         <ul>
-           <!-- <li style="background-image: url('http://unslider.com/img/sunset.jpg');"></li>-->
+        	<li><img src="..//img/1.jpeg heigh="406px" width="1400px""></li>
+        	<li><img src="..//img/2.jpeg heigh="406px" width="1400px""></li>
+        	<li><img src="..//img/4.jpeg heigh="406px" width="1400px""></li>
+		<li><img src="..//img/5.jpeg heigh="406px" width="1400px""></li>
+		
+
         </ul>
-    </div>
+	<li class="dot">1</li><li class="dot">2</li><li class="dot">3</li><li class="dot active">4</li>
+   
   </div>
   </div>
   <div class="container">
@@ -92,7 +98,7 @@
             <div class="hinh-header-decoration"></div>
           </div>
           <div class="hinh-image">
-            <img src="..//img/project06-ec513d22a13d9c4c5f959882fa9eabb.jpg">
+            <img src="..//img/project06-ec513d22a13d9c4c5f959882fa9ea7bb.jpg">
           </div>
             <h3 class="hinh-hover">Academy of Sciences  Newsletter</h3>
             <p class="hinh-hover">Aid collaborative global network overcome injustice honesty measures. Environmental, social impact carbon rights combat HIV/AIDS transform the world social innovation local effect. Free expression committed.</p>
