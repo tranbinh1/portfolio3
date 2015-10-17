@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Portfolio</title>
+  <title>Tran Binh</title>
   <link href='https://fonts.googleapis.com/css?family=Roboto:500,100,300,700' rel='stylesheet' type='text/css'>
   <!-- Latest compiled and minified CSS -->
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
@@ -93,18 +93,22 @@
     {  alert("Tai khoan hoac mat khau khong dung !")
 	}
 }
-$(function() {   
+$(function() {  
+    $('.banner').unslider(); 
+
     $('.banner').unslider({
 	speed: 500,               //  The speed to animate each slide (in milliseconds)
-	delay: 500,              //  The delay between slide animations (in milliseconds)
-	complete: function() {},  //  A function that gets called after every slide animation
+	delay: 500,              //  The delay between slide animations (in milliseconds
 	keys: true,               //  Enable keyboard (left, right) arrow shortcuts
 	dots: true,               //  Display dot navigation
 	fluid: false              //  Support responsive design. May break non-responsive designs
 });
+var slidey = $('.banner').unslider(),
+    data = slidey.data('unslider');
 
 });
 
+    
 
 </script>
   
