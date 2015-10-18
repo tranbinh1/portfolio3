@@ -89,17 +89,17 @@ ul {
    text-align:left;
 }
 .linkedin {
-    background-image: url("https://portfolio-rails-2633.herokuapp.com/assets/twitter-8c095eaee58362a46d56e3f07b50b23b.svg");
+    background-image: url("..//img/bird1-1.png");
     background-position:center center;
     background-repeat:no-repeat;
 }
 .github {
-    background-image: url("https://portfolio-rails-2633.herokuapp.com/assets/github-edc899c60c7b3afd0c458e648197f578.svg");
+    background-image: url("..//img/social.png");
     background-position:center center;
     background-repeat:no-repeat;
 }
 .twitter {
-    background-image: url("https://portfolio-rails-2633.herokuapp.com/assets/linkedin-be22eb82414f9f637debbe2d64c301cb.svg");
+    background-image: url("..//img/linkedin3-1.png");
     
     background-position:center center;
     background-repeat:no-repeat;
