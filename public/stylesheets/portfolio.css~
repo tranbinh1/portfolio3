@@ -31,7 +31,7 @@ float: left;
  }
 .banner .dots {
     position: absolute;
-    left: 0px;
+    left: 630px;
     right: 0px;
     bottom: 20px;
 }
