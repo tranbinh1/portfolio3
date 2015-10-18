@@ -89,7 +89,7 @@ ul {
    text-align:left;
 }
 .linkedin {
-    background-image: url("..//img/bird1.png");
+    background-image: url("https://portfolio-rails-2633.herokuapp.com/assets/twitter-8c095eaee58362a46d56e3f07b50b23b.svg");
     background-position:center center;
     background-repeat:no-repeat;
 }

@@ -2,10 +2,10 @@
   <div class="banner">
         
         <ul>
-        	<li><img src="..//img/1.jpeg heigh="406px" width="1400px""></li>
-        	<li><img src="..//img/2.jpeg heigh="406px" width="1400px""></li>
-        	<li><img src="..//img/4.jpeg heigh="406px" width="1400px""></li>
-		<li><img src="..//img/5.jpeg heigh="406px" width="1400px""></li>
+        	<li><img src="..//img/a1.jpg" width="1400px" height="406px"></li>
+        	<li><img src="..//img/a2.jpg" width="1400px" height="406px"></li>
+        	<li><img src="..//img/a3.jpg" width="1400px" height="406px"></li>
+		<li><img src="..//img/a4.jpg" width="1400px" height="406px"></li>
 		
 
         </ul>
