@@ -4,11 +4,11 @@
     padding: 50px;
 }
 .contact-linkedin {
-    background-image: url("..//img/linkedin3.png" width="133px" height="100px");
+    background-image: url("..//img/linkedin3.png");
 }
 
 .contact-github {
-    background-image: url("https://portfolio-rails-2633.herokuapp.com/assets/github-edc899c60c7b3afd0c458e648197f578.svg");
+    background-image: url("..//img/github16-1.png");
 }
 .contact-me {
     margin-bottom: 30px;
@@ -22,15 +22,15 @@
 }
 
 .contact-twitter {
-    background-image: url("..//img/bird1.png");
+    background-image: url("..//img/bird1-4.png");
 }
 
 .contact-facebook {
-    background-image: url("https://portfolio-rails-2633.herokuapp.com/assets/facebook-70848fad6bf158b9a52e47d9bc956b8a.svg");
+    background-image: url("..//img/facebook56.png");
 }
 .contact-google-plus {
-    background-image: url("https://portfolio-rails-2633.herokuapp.com/assets/gplus-b3a33145641e08e048cd10ed0ece59ce.svg");
+    background-image: url("..//img/google116.png");
 }
 .contact-instagram {
-    background-image: url("https://portfolio-rails-2633.herokuapp.com/assets/instagram-057a090ac0e0184c68efc07e412eec3b.svg");
+    background-image: url("..//img/instagram12.png");
 }
